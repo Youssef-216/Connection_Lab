@@ -1,0 +1,42 @@
+
+body{
+
+background-color: peachpuff;
+}
+h1{
+background-color: peachpuff;
+font-size: 60px;
+} 
+img{
+    width: 300px;  
+    height: 400px;    
+    padding: 15px;  
+    
+
+}
+
+.image{
+    flex: 33.33%;
+    padding: 25px;
+  }
+
+p{
+    font-size: 30px;
+  }
+.dish{
+    font-size: 25px;
+}
+.Video {
+    width:440px;
+    height:600px; 
+    /* padding: 30px; */
+   
+  }  
+
+.paragraph{
+    font-size: 20px;
+}
+.para{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkslategray;
+}
