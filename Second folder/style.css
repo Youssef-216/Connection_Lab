@@ -1,0 +1,27 @@
+body {
+    /* background-color: rgb(247, 224, 224); */
+    height: 300vh;
+  background: linear-gradient(to bottom, #2f5063 0%,#4F4F47 30%,#C5752D 60%,#e8783c 80%, #000000 100%); 
+  }
+  
+  h{
+    color: #e8783c;
+    font-style: italic;
+    font-size: 70px;
+  }
+  .carPhoto {
+    position: fixed;
+    bottom: 0;
+    width: 20vw;
+
+
+  }
+  #btn,button {
+    color: #e8783c;
+    background-color: #8b6edc;
+    font-style: italic;
+    color: black;
+    border-radius: 50%;
+    padding: 20px;
+
+  }
