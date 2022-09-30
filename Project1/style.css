@@ -1,0 +1,109 @@
+body {
+   
+    height: 950vh;
+    background: linear-gradient(to bottom, #4b7d9a 0%,#727269 30%,#da583e 60%,#e8613c 80%, #c94949 100%); 
+    padding: 0;
+	margin: 0;
+	text-align: center;
+	font-family:arial;
+	font-size: 24px;
+}
+
+.full-screen-container{
+    height: 100vh;
+    width:100vw;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.full-screen-container1{
+    height: 100vh;
+    width:100vw;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.full-screen-container2{
+    height: 100vh;
+    width:100vw;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#pop-up{
+    font-size: 90px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#question{
+    font-size: 100px;
+    font-family:Courier;
+}
+#text1{
+    font-size: 60px;
+    font-style: bolder;
+}
+#bummed{
+    font-size: 60px;
+    font-style: bolder;
+}
+#Kanye_quote{
+    font-size: 50px;
+    font:bolder; 
+    padding-top: 5cm;
+}
+#name, #country, #message{
+    font-size: 40px;
+
+}
+
+#input{
+  
+    padding:10px;
+    border-radius:10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius:10px;
+
+}
+#btn{
+    margin-top: 7px;
+    border:none; 
+    width: 100px;
+    height: 100px ;
+    font-size: 20px
+}
+#new_advice:hover {
+   
+    width: 100px;
+    height: 100px ;
+}
+#btn:hover {
+    width: 70px;
+    height: 70px ;
+}
+#rand_advice{
+    font-size: 40px;
+    font:bolder;
+}
+#Joke_setup{
+    padding-top: 20px;
+    font-size: 40px;
+}
+#Joke_punchline{
+    font-size: 40px;
+}
+.footer {
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(213, 52, 52);
+    color: white;
+    text-align: center;
+ }
