@@ -12,8 +12,13 @@ The user experience has been specifically engineered to nudge the user to discov
 The design of the website is purpucioussly clean cut and minimalistic, since items appear organically with big fonts on the screen as the user scrolls through the website. The gradient of the background colour slowlly veirs from dark blue to red as the user scrolls throughout the webpage, thus reflecting 
 the mood of the user. 
 
-## Technicalities:
+## Technicalities & Challenges:
 ### APIs:
 The website fetches four random APIs from the web and implementing each of them had its own challenges, e.g: Accessing the necessary element from the 
-fetched data, getting the propper keys, and fixing 'sheetsdb'.
+fetched data, getting the propper keys, and fixing 'sheetsdb'. Having the data trasnfered to and from the google sheet was a challenge. I used open-source code to solve some of the problems I faced.
+
+<img width="520" alt="Screenshot 2022-10-01 at 00 45 57" src="https://user-images.githubusercontent.com/112507667/193353756-c5b96ab0-6d7c-4f61-a085-0c918cd5a9dd.png"> <img width="571" alt="Screenshot 2022-10-01 at 00 48 36" src="https://user-images.githubusercontent.com/112507667/193353964-c8bcfe75-b55e-4846-a143-133883dd9fd0.png">
+
+
+
 
