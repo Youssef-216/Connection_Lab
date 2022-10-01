@@ -113,17 +113,6 @@
       
       alert('success') });
       });
-//P5 visualisation
-      function setup() {
-        createCanvas(600, 600);
-        noStroke();
-      }
-      function draw() {
-        background(36);
-        ellipse(mouseX, 18, 100, 100);    // Top circle
-        ellipse(mouseX+ 20, 200, 100, 100); // Middle circle
-        ellipse(mouseX-25, 500, 100, 100); // Bottom circle
-      }
 
 
 // !-- using sheetsdb -->
